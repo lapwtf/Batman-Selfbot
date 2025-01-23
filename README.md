@@ -1,4 +1,4 @@
-# Cozy Selfbot
+# Batman Selfbot
 
 ## Important Notice
 This code is being publicly released by me (lapy/lappy) due to unauthorized reselling attempts by other individuals. Instead of allowing others to profit from this code, I've decided to make it freely available to everyone.

@@ -1,0 +1,11 @@
+{
+    "password": "1234",
+    "prefix": "$",
+    "help_timeout": 80,
+    "delete_timeout": 5,
+    "theme": {
+        "primary_color": "black",
+        "secondary_color": "white",
+        "accent_color": "red"
+    }
+}
